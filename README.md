@@ -1,5 +1,5 @@
 # Explanatory and Exploratory Data Visualization Ford GoBike System Data
-## by (your name here)
+## by Sarah Ali
 
 
 ## Dataset
